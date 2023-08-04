@@ -1,7 +1,7 @@
-# Nova-Mini
+# Mini-Nova
 Url Shortner
 
-Nova Mini is a simple URL shortener web application built with React, Firebase, and Bootstrap. It allows users to shorten long URLs into custom or randomly generated short URLs. The project aims to provide a user-friendly interface for converting lengthy URLs into concise and easy-to-share links.
+Mini Nova is a simple URL shortener web application built with React, Firebase, and Bootstrap. It allows users to shorten long URLs into custom or randomly generated short URLs. The project aims to provide a user-friendly interface for converting lengthy URLs into concise and easy-to-share links.
 
 ![Screenshot 2023-08-02 003342](https://github.com/Nova2185/Nova-Mini/assets/114936178/8ef04a8d-4e9a-4cf4-abfa-c405e42e0fa1)
 
